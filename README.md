@@ -19,7 +19,7 @@ Simple Audio Converter Based on Qt6 and FFMPEG
 
 - Qt 6.0+ (Quick + QuickControls2)
 - CMake 3.+
-- `ffmpeg` installed and available in your PATH (The current exemple use ffmpeg from the application directory, you can change it in the code to defalut ffmpeg from path)
+- `ffmpeg` installed and available in your PATH 
 - (optional) `ffprobe` in PATH
 
 ## Build (Windows example)
