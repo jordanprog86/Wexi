@@ -57,7 +57,7 @@ void ConverterBackend::appendLog(const QString &line)
 
 QString ConverterBackend::ffmpegProgram() const
 {
-    return QCoreApplication::applicationDirPath()+"/ffmpeg";
+    return QStringLiteral("ffmpeg");
 }
 
 QString ConverterBackend::ffprobeProgram() const
