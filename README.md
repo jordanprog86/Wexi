@@ -1,5 +1,7 @@
 # Wexi
 Simple Audio Converter Based on Qt6 and FFMPEG
+<img width="1202" height="914" alt="Wexi1" src="https://github.com/user-attachments/assets/0880b866-32ab-44a7-9190-590baa427935" />
+
 
 ## Features
 
