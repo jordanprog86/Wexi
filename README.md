@@ -40,5 +40,3 @@ Run:
 - Supported formats/codecs depend on how your local `ffmpeg` was compiled.
 - You can pass advanced options in **Extra ffmpeg args** (for example filters or quality tuning).
 
-## Test
-Download the zip file and launch the programm to test IT
